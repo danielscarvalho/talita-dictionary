@@ -28,9 +28,11 @@ O incrível vocabulário da Talita
 - Coyo
 - Dadi
 - Desce
+- Dilicia
 - Dicupa
 - Dinossaulo
 - É meu!
+- Enta
 - Esse
 - Fanghinho
 - Galinha

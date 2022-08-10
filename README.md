@@ -8,93 +8,95 @@ O incrível vocabulário da Talita
 
 2 yo vocabulary
 
-- Ma ma ma ma ma ma gui
-- Picoca
-- Nana não
-- Buiuuu
-- Chocolia
-- Salia
-- Salinha
-- Vem vem
-- Gulutus
-- Chubeca
-- Bolinha
-- Que fome
-- Mimi
-- Miki
-- Bana
-- Maça
-- Suki
-- Uni
-- Dicupa
-- Ajuda
-- Socorro
-- Sobe
-- Desce
-- No que
-- Não podi
-- Agora não
-- Suculo
-- Cabo
-- Que vê
-- Papai
-- Que nana
-- Sim
-- Coyo
-- Passa
-- Piupiu
-- Peti
-- TV
-- Poti poti
-- Brilha Brilha
-- Itita
-- Tidita
-- Maju
-- Dadi
-- Manu
-- Passia
-- Nana
-- Mama
-- Manga
-- Uva
-- Fanghinho
-- Bush
-- Ovo
-- Woody
-- Icola
-- Jassy
-- Bola
-- Sapato
 - Abre
-- Sapato bota
-- Pé meia
-- Um... Dez
-- Pato
-- Pekeka
-- Pepa
-- Susi
+- Agora não
+- Ajuda
+- Aquel
+- Bana
+- Bola
+- Bolinha
+- Brilha Brilha
+- Budia
+- Buiuuu
+- Bush
+- Cabo
+- Cadê
+- Calijó
+- Carro
+- Chocolia
+- Chubeca
+- Coyo
+- Dadi
+- Dani
+- Desce
+- Dicupa
 - Dinossaulo
-- Vovô
-- Vovó
-- Tia Caiol
+- É meu!
+- Esse
+- Fanghinho
+- Galinha
+- Giafa
+- Gulutus
+- Icola
+- Itita
+- Jassy
+- Jay Jay
 - Lolo
-- Tio Boia
+- Ma ma ma ma ma ma gui
+- Maça
+- Maju
+- Mama
+- Mamão
+- Manga
+- Manu
+- Miki
+- Mimi
+- Nana
+- Nana não
+- Não podi
+- No que
+- Otro
+- Ovo
 - Papa
 - Papai
-- Mamão
-- Dani
-- Aquel
-- Carro
-- Titia
-- Galinha
-- Popo
+- Papai
+- Passa
+- Passia
+- Pato
+- Pé meia
+- Pekeka
+- Pepa
+- Peti
+- Picoca
 - Pintadinha
-- Calijó
 - Piu piu
-- Jay Jay
+- Piupiu
+- Popo
+- Poti poti
+- Que fome
+- Que nana
+- Que vê
+- Salia
+- Salinha
+- Sapato
+- Sapato bota
+- Sim
+- Sobe
+- Socorro
+- Suculo
+- Suki
+- Susi
+- Tia Caiol
+- Tidita
+- Tio Boia
+- Titia
 - Toke Toke Toke
-- Budia
-- Esse
-- Otro
-- Giafa
-- É meu!
+- TV
+- Um... Dez
+- Uni
+- Uva
+- Vem vem
+- Vovó
+- Vovô
+- Vovô Dedo
+- Woody

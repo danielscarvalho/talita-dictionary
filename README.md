@@ -75,3 +75,21 @@
 - Tia Caiol
 - Lolo
 - Tio Boia
+- Papa
+- Papai
+- Mamão
+- Dani
+- Aquel
+- Carro
+- Titia
+- Galinha
+- Popo
+- Pintadinha
+- Calijó
+- Piu piu
+- Jay Jay
+- Toke Toke Toke
+- Budia
+- Esse
+- Otro
+- Giafa

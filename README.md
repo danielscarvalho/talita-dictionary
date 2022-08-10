@@ -1,6 +1,6 @@
 # talita-dictionary
 
-<img "img/talita.jpg" width="600px">
+![](img/talita.jpg)
 
 ## Talita Dictionary
 

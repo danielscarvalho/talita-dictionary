@@ -87,7 +87,7 @@ O incrível vocabulário da Talita
 - Carro
 - Titia
 - Galinha
-- Popohttps://github.com/danielscarvalho/talita-dictionary/
+- Popo
 - Pintadinha
 - Calijó
 - Piu piu

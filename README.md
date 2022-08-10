@@ -57,8 +57,7 @@ O incrível vocabulário da Talita
 - Otro
 - Ovo
 - Papa
-- Papai
-- Papai
+- Papai (1<sup>a</sup> palavra)
 - Passa
 - Passia
 - Pato

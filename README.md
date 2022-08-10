@@ -1,5 +1,7 @@
 # talita-dictionary
 
+O incrível vocabulário da Talita
+
 ![](img/talita.jpg)
 
 ## Talita Dictionary

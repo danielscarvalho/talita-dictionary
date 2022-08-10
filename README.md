@@ -27,7 +27,6 @@ O incrível vocabulário da Talita
 - Chubeca
 - Coyo
 - Dadi
-- Dani
 - Desce
 - Dicupa
 - Dinossaulo

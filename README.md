@@ -22,6 +22,7 @@ O incrível vocabulário da Talita
 - Cabo
 - Cadê
 - Calijó
+- Caninha
 - Carro
 - Chocolia
 - Chubeca

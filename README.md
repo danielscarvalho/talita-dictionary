@@ -1,5 +1,7 @@
 # talita-dictionary
 
+<img "img/talita.jpg" width="600px">
+
 ## Talita Dictionary
 
 2 yo vocabulary

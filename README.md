@@ -27,6 +27,7 @@ O incrível vocabulário da Talita
 - Chocolia
 - Chubeca
 - Coyo
+- Dicupa
 - Dadi
 - Desce
 - Dilicia
@@ -61,6 +62,7 @@ O incrível vocabulário da Talita
 - Ovo
 - Papa
 - Papai (1<sup>a</sup> palavra)
+- Papai dedo
 - Passa
 - Passia
 - Pato
